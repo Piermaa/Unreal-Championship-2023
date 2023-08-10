@@ -1,0 +1,14 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GameDev/Unreal 4/Train Prototype/TrainProt 5.2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"E:/GameDev/Unreal 4/Train Prototype/TrainProt 5.2/Content/BluePrints/BP_WagonDoor.uasset",
+				"E:/GameDev/Unreal 4/Train Prototype/TrainProt 5.2/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap"
+			]
+		}
+	]
+}
